@@ -9,7 +9,7 @@
 | 文件 | 说明 |
 |---|---|
 | `20244081112_杨俊堃_hw01.ipynb` | 作业1：Data Types, Functions and Conditionals |
-| `20244081112_杨俊堃_exp01.ipynb` | 实验报告01：Python基础与数据处理入门 |
+| `20244081112_杨俊堃_exp01.ipynb` | 实验报告01：Python数据处理A |
 | `student_utils.py` | 实验4 第7题要求的工具模块，由 Notebook 自动生成 |
 | `exp01_data/` | 实验4 的文件读写产物，由 Notebook 自动生成 |
 
